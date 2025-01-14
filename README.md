@@ -29,6 +29,9 @@ A dynamic Kanban board application built with React, TypeScript, and Tailwind CS
 git clone [repository-url]
 cd kanban-board
 
+npm install
+npm start
+
 ## Known Limitations & Trade-offs
 
 ### 1. Data Management
